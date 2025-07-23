@@ -206,7 +206,7 @@ It strengthens the accountability of the active set by enabling incident reports
 ---
 
 ### Milestone 1 — Mainnet Launch & Feature Freeze
-**1 month | 0.4 FTE | 3,500 USD**
+**1 month | 2 FTE | 3,500 USD**
 
 | No. | Deliverable              | Specification |
 |-----|--------------------------|---------------|
@@ -222,7 +222,7 @@ It strengthens the accountability of the active set by enabling incident reports
 ---
 
 ### Milestone 2 — Advanced Analytics & Export
-**1 month | 0.3 FTE | 3,500 USD**
+**1 month | 2 FTE | 3,500 USD**
 
 | No. | Deliverable            | Specification |
 |-----|------------------------|---------------|
@@ -237,7 +237,7 @@ It strengthens the accountability of the active set by enabling incident reports
 ---
 
 ### Milestone 3 — Validator Partnership Test & Calibration
-**1 month | 0.3 FTE | 3,000 USD**
+**1 month | 2 FTE | 3,000 USD**
 
 | No. | Deliverable               | Specification |
 |-----|---------------------------|---------------|
