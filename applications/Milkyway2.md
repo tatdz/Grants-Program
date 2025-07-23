@@ -1,7 +1,7 @@
 # Milkyway2
 
 - **Team Name:** Milkyway2  
-- **Payment address: 121v9xMyaesfMXML47xYP4PvqW6GQUFjjuZXxw9RBnGpmaeG  
+- Payment address: 121v9xMyaesfMXML47xYP4PvqW6GQUFjjuZXxw9RBnGpmaeG  
 - **Level:** 1
 
 ## Project Overview :page_facing_up:
