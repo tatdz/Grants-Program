@@ -214,7 +214,7 @@ It strengthens the accountability of the active set by enabling incident reports
 | 0b  | Documentation            | Final schema and proof lifecycle docs |
 | 0c  | Testing Guide            | Tests for risk tiering and zk-proof flows |
 | 0d  | Docker                   | Compose file supporting Node API, PostgreSQL, client |
-| 1   | Mainnet Integration      | Dashboard connected to Kusama + Passet mainnets |
+| 1   | Mainnet Integration      | Dashboard connected to Polkadot, Kusama mainnets |
 | 2   | Semaphore Proof Module   | Finalized client interface for proof lifecycle |
 | 3   | Offline Incident Logging | Append-only event journal for slashing/offline validators |
 | 4   | Validator CLI            | Generate/export/report commands for operators |
